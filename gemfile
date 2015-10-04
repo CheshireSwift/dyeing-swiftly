@@ -3,5 +3,6 @@ gem 'guilding-swiftly'
 gem 'sinatra'
 gem 'sinatra-contrib'
 gem 'json'
-gem 'lrucache'
+gem 'cachy'
+gem 'activesupport'
 
