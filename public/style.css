@@ -1,0 +1,17 @@
+.value {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  font-family: helvetica;
+  font-size: 24pt;
+}
+
+.token_entry {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  font-family: helvetica;
+  font-size: 24pt;
+}
