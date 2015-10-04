@@ -1,0 +1,30 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    PriorityQueue (0.1.2)
+    guilding-swiftly (0.0.1)
+    json (1.8.2)
+    lrucache (0.1.4)
+      PriorityQueue (~> 0.1.2)
+    rack (1.6.0)
+    rack-protection (1.5.3)
+      rack
+    sinatra (1.4.5)
+      rack (~> 1.4)
+      rack-protection (~> 1.4)
+      tilt (~> 1.3, >= 1.3.4)
+    tilt (1.4.1)
+    timerizer (0.1.4)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  guilding-swiftly
+  json
+  lrucache
+  sinatra
+  timerizer
+
+BUNDLED WITH
+   1.10.6
